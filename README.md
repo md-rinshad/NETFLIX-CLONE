@@ -47,7 +47,7 @@ ZFLIX/
  --------------
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/zflix-clone.git
+   git clone https://github.com/md-rinshad/zflix-clone.git
 Open index.html in your browser.
 
 📱 Responsiveness
